@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Order18</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_addfund">Add Fund</string>
+    <string name="action_viewtransaction">Transaction</string>
+    <string name="action_viewbalance">Balance</string>
+    <string name="action_trackorder">Track Order</string>
+    <string name="action_updateprofile">Update Profile</string>
+    <string name="action_placeorder">Place Order</string>
+    <string name="action_logout">Log Out</string>
+    <string name="title_activity_transactions">Transactions</string>
+    <string name="user_id">User ID</string>
+    <string name="password">Password</string>
+    <string name="loginbutton">Submit</string>
+    <string name="newuserbutton">Register A New User</string>
+    <string name="forgotpassword">Forgot Password</string>
+    <string name="title_activity_upload_order">Upload Order Slip</string>
+    <string name="title_activity_order_selection">Order Selection</string>
+    <string name="title_activity_addfund">Add Fund</string>
+    <string name="title_activity_view_balance">View Balance</string>
+    <string name="title_activity_track_order">Track Order</string>
+    <string name="title_activity_update_profile">Update Profile</string>
+    <string name="title_activity_search_item">Search Item</string>
+    <string name="category_select_prompt">Select Category</string>
+    <string name="title_activity_new_user">NewUser</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>

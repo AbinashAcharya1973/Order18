@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.order18.UpdateProfile" >
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_logout"/>
+    <item
+        android:id="@+id/action_addfund"
+        android:title="@string/action_addfund"
+    />
+    <item
+        android:id="@+id/action_placeorder"
+        android:title="@string/action_placeorder"
+    />
+    <item
+        android:id="@+id/action_viewtransaction"
+        android:title="@string/action_viewtransaction"/>
+    <item
+        android:id="@+id/action_viewbalance"
+        android:title="@string/action_viewbalance"/>
+    <item
+        android:id="@+id/action_trackorder"
+        android:title="@string/action_trackorder"/>
+    
+</menu>
